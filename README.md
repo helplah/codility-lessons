@@ -13,24 +13,32 @@ BinaryGap
 
 JavaScript: https://app.codility.com/demo/results/training7Q5CM8-EW3/
 
+
 Lesson 2: Arrays
 ----------------
 CyclicRotation
 * Rotate an array to the right by a given number of steps.
 
+JavaScript: https://app.codility.com/demo/results/trainingQW9KPY-UBR/
+
 OddOccurrencesInArray
 * Find value that occurs in odd number of elements.
 
+JavaScript: https://app.codility.com/demo/results/trainingY2BDTY-5QB/
+
+
 Lesson 3: Time Complexity
 -------------------------
-TapeEquilibrium
-* Minimize the value |(A[0] + ... + A[P-1]) - (A[P] + ... + A[N-1])|.
-
 FrogJmp
 * Count minimal number of jumps from position X to Y.
 
+JavaScript: https://app.codility.com/demo/results/trainingJNFZPK-T77/
+
 PermMissingElem
 * Find the missing element in a given permutation. 
+
+TapeEquilibrium
+* Minimize the value |(A[0] + ... + A[P-1]) - (A[P] + ... + A[N-1])|.
 
 
 Lesson 4: Counting Elements
@@ -50,17 +58,17 @@ MaxCounters
 
 Lesson 5: Prefix Sums
 --------------------
-CountDiv
-* Compute number of integers divisible by k in range [a..b].
-
 PassingCars
 * Count the number of passing cars on the road.
+
+GenomicRangeQuery
+* Find the minimal nucleotide from a range of sequence DNA.
 
 MinAvgTwoSlice
 * Find the minimal average of any slice containing at least two elements.
 
-GenomicRangeQuery
-* Find the minimal nucleotide from a range of sequence DNA.
+CountDiv
+* Compute number of integers divisible by k in range [a..b].
 
 
 Lesson 6: Sorting
