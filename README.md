@@ -9,9 +9,9 @@ Link to Lessons and tasks: https://codility.com/programmers/lessons/
 Lesson 1: Iterations
 --------------------
 BinaryGap
-* Find longest sequence of zeros in binary representation of an integer.
-
-JavaScript: https://app.codility.com/demo/results/training7Q5CM8-EW3/
+- Find longest sequence of zeros in binary representation of an integer.
+  
+  - JavaScript: https://app.codility.com/demo/results/training7Q5CM8-EW3/
 
 
 Lesson 2: Arrays
@@ -19,12 +19,12 @@ Lesson 2: Arrays
 CyclicRotation
 * Rotate an array to the right by a given number of steps.
 
-JavaScript: https://app.codility.com/demo/results/trainingQW9KPY-UBR/
+  * JavaScript: https://app.codility.com/demo/results/trainingQW9KPY-UBR/
 
 OddOccurrencesInArray
 * Find value that occurs in odd number of elements.
 
-JavaScript: https://app.codility.com/demo/results/trainingY2BDTY-5QB/
+  * JavaScript: https://app.codility.com/demo/results/trainingY2BDTY-5QB/
 
 
 Lesson 3: Time Complexity
@@ -32,7 +32,7 @@ Lesson 3: Time Complexity
 FrogJmp
 * Count minimal number of jumps from position X to Y.
 
-JavaScript: https://app.codility.com/demo/results/trainingJNFZPK-T77/
+  * JavaScript: https://app.codility.com/demo/results/trainingJNFZPK-T77/
 
 PermMissingElem
 * Find the missing element in a given permutation. 
