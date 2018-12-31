@@ -8,56 +8,46 @@ Link to Lessons and tasks: https://codility.com/programmers/lessons/
 
 Lesson 1: Iterations
 --------------------
-BinaryGap
-- Find longest sequence of zeros in binary representation of an integer.
+BinaryGap: Find longest sequence of zeros in binary representation of an integer.
   
-  - JavaScript: https://app.codility.com/demo/results/training7Q5CM8-EW3/
+- JavaScript: https://app.codility.com/demo/results/training7Q5CM8-EW3/
 
 
 Lesson 2: Arrays
 ----------------
-CyclicRotation
-* Rotate an array to the right by a given number of steps.
+CyclicRotation: Rotate an array to the right by a given number of steps.
 
-  * JavaScript: https://app.codility.com/demo/results/trainingQW9KPY-UBR/
+* JavaScript: https://app.codility.com/demo/results/trainingQW9KPY-UBR/
 
-OddOccurrencesInArray
-* Find value that occurs in odd number of elements.
+OddOccurrencesInArray: Find value that occurs in odd number of elements.
 
-  * JavaScript: https://app.codility.com/demo/results/trainingY2BDTY-5QB/
+* JavaScript: https://app.codility.com/demo/results/trainingY2BDTY-5QB/
 
 
 Lesson 3: Time Complexity
 -------------------------
-FrogJmp
-* Count minimal number of jumps from position X to Y.
+FrogJmp: Count minimal number of jumps from position X to Y.
 
-  * JavaScript: https://app.codility.com/demo/results/trainingJNFZPK-T77/
+* JavaScript: https://app.codility.com/demo/results/trainingJNFZPK-T77/
 
-PermMissingElem
-* Find the missing element in a given permutation. 
+PermMissingElem: Find the missing element in a given permutation. 
 
-  * JavaScript: https://app.codility.com/demo/results/trainingJU6GKE-B75/
+* JavaScript: https://app.codility.com/demo/results/trainingJU6GKE-B75/
 
-TapeEquilibrium
-* Minimize the value |(A[0] + ... + A[P-1]) - (A[P] + ... + A[N-1])|.
+TapeEquilibrium: Minimize the value |(A[0] + ... + A[P-1]) - (A[P] + ... + A[N-1])|.
 
-  * JavaScript: https://app.codility.com/demo/results/trainingXQT737-AKV/
+* JavaScript: https://app.codility.com/demo/results/trainingXQT737-AKV/
 
 
 Lesson 4: Counting Elements
 ---------------------------
-FrogRiverOne
-* Find the earliest time when a frog can jump to the other side of a river.
+FrogRiverOne: Find the earliest time when a frog can jump to the other side of a river.
 
-PermCheck
-* Check whether array A is a permutation.
+PermCheck: Check whether array A is a permutation.
 
-MissingInteger
-* Find the minimal positive integer not occuring in a given sequence.
+MissingInteger: Find the minimal positive integer not occuring in a given sequence.
 
-MaxCounters
-* Calculate the values of counters after applying all alternating operations: increase counter by 1; set value of all counters to current maximum.
+MaxCounters: Calculate the values of counters after applying all alternating operations: increase counter by 1; set value of all counters to current maximum.
 
 
 Lesson 5: Prefix Sums
