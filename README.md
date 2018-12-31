@@ -37,8 +37,12 @@ FrogJmp
 PermMissingElem
 * Find the missing element in a given permutation. 
 
+  * JavaScript: https://app.codility.com/demo/results/trainingJU6GKE-B75/
+
 TapeEquilibrium
 * Minimize the value |(A[0] + ... + A[P-1]) - (A[P] + ... + A[N-1])|.
+
+  * JavaScript: https://app.codility.com/demo/results/trainingXQT737-AKV/
 
 
 Lesson 4: Counting Elements

@@ -1,4 +1,4 @@
-// 100%
+// 100% - I had no clue on the usage of bitwise operator 
 // https://app.codility.com/demo/results/trainingY2BDTY-5QB/
 function solution(A) {
     let result = 0;
