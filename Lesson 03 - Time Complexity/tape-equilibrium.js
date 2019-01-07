@@ -1,4 +1,5 @@
 // 100%
+// Detected time complexity: O(N)
 // https://app.codility.com/demo/results/trainingXQT737-AKV/
 function solution(A) {
   let first = 0;

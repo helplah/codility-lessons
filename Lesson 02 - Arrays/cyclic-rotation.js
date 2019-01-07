@@ -1,6 +1,5 @@
-// you can write to stdout for debugging purposes, e.g.
-// console.log('this is a debug message');
-
+// 100% - focus on correctness
+// https://app.codility.com/demo/results/trainingQW9KPY-UBR/
 function solution(A, K) {
   let newArray = A.slice();
   

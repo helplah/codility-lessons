@@ -1,4 +1,5 @@
 // 100% - I had thought of this method but didn't implement it. Ended up seeing it online...
+// Detected time complexity: O(N) or O(N * log(N))
 // https://app.codility.com/demo/results/trainingJU6GKE-B75/
 function solution(A) {
   if (A.length === 0) return 1;

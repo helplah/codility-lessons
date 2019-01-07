@@ -1,6 +1,6 @@
-// you can write to stdout for debugging purposes, e.g.
-// console.log('this is a debug message');
-
+// 100%
+// Detected time complexity: O(1)
+// https://app.codility.com/demo/results/trainingJNFZPK-T77/
 function solution(X, Y, D) {
   if (X === Y) {
       return 0;

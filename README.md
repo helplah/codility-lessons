@@ -43,11 +43,19 @@ Lesson 4: Counting Elements
 ---------------------------
 FrogRiverOne: Find the earliest time when a frog can jump to the other side of a river.
 
+* JavaScript: https://app.codility.com/demo/results/trainingPRUWWF-DCF/
+
 PermCheck: Check whether array A is a permutation.
+
+* JavaScript: 
 
 MissingInteger: Find the minimal positive integer not occuring in a given sequence.
 
+* JavaScript: https://app.codility.com/demo/results/trainingMW8MUD-B9J/
+
 MaxCounters: Calculate the values of counters after applying all alternating operations: increase counter by 1; set value of all counters to current maximum.
+
+* JavaScript: 
 
 
 Lesson 5: Prefix Sums

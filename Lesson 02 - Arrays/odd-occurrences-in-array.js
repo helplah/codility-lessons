@@ -1,4 +1,5 @@
-// 100% - I had no clue on the usage of bitwise operator 
+// 100% - I had no clue how to use the bitwise operator, and didn't know you can use it like that
+// Detected time complexity: O(N) or O(N*log(N))
 // https://app.codility.com/demo/results/trainingY2BDTY-5QB/
 function solution(A) {
     let result = 0;
@@ -31,7 +32,7 @@ function solution(A) {
     return arr.shift();
 }
 
-//I have no idea why the time complexity is O(N^2)...
+// I have no idea why the time complexity is O(N^2)...
 // Task Score: 55%, Correctness: 80%, Performance: 25%
 // Detected time complexity: O(N^2)
 // https://app.codility.com/demo/results/trainingVTXUMZ-A49/
