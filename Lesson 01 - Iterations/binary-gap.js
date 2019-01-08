@@ -1,6 +1,6 @@
-// you can write to stdout for debugging purposes, e.g.
-// console.log('this is a debug message');
-
+/* I learnt that toString() is used to convert a number into string. 
+This function accepts a single optional parameter base. 
+This parameter specifies the base (2 - 36) in which the integer is represented in string. */
 function solution(N) {
   let increment = 0;
   let binaryGap = 0;

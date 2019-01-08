@@ -55,7 +55,7 @@ MissingInteger: Find the minimal positive integer not occuring in a given sequen
 
 MaxCounters: Calculate the values of counters after applying all alternating operations: increase counter by 1; set value of all counters to current maximum.
 
-* JavaScript: 
+* JavaScript: https://app.codility.com/demo/results/trainingNPHTDK-6KZ/
 
 
 Lesson 5: Prefix Sums
@@ -63,14 +63,22 @@ Lesson 5: Prefix Sums
 PassingCars
 * Count the number of passing cars on the road.
 
+* JavaScript: https://app.codility.com/demo/results/trainingYSPPWE-ZT9/
+
 GenomicRangeQuery
 * Find the minimal nucleotide from a range of sequence DNA.
+
+* JavaScript: 
 
 MinAvgTwoSlice
 * Find the minimal average of any slice containing at least two elements.
 
+* JavaScript: 
+
 CountDiv
 * Compute number of integers divisible by k in range [a..b].
+
+* JavaScript: 
 
 
 Lesson 6: Sorting
