@@ -15,13 +15,20 @@ For example, for the input [0, 2000000000, 1] the solution exceeded the time lim
 // Detected time complexity: O(B-A)
 // https://app.codility.com/demo/results/trainingZAEF2T-WGB/
 function solution(A, B, K) {
-  let divisible = 0;
+  let count = 0;
   
   for (let x = A; x <= B; x++) {
       if (x % K === 0) {
-          divisible++;
+          count++;
       }
   }
   
-  return divisible;
+  return count;
 }
+
+/* This answer is from stackoverflow. Re-attempt it soon. 
+  https://stackoverflow.com/questions/32734532/codility-countdiv-javascript-solution
+*/
+function solution(A, B, K) {
+  return Math.floor(B/K) - Math.floor(A/K) + (A % K === 0 ? 1 : 0);
+} 
