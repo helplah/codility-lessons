@@ -17,3 +17,23 @@ function solution(A) {
   
   return smallestTotalIdx
 }
+
+/*  my attempted soln
+function solution(A) {
+  let minimalAvg;
+  let nextSlice;
+
+  for (let x = 0; x < A.length; x++) {
+      if (minimalAvg === undefined) {
+          minimalAvg = (A[x] + A[x + 1]) / 2;
+      }
+      nextSlice = (A[x] + A[x + 1]) / 2;
+      
+      if (nextSlice < minimalAvg) {
+          //minimalAvg = 
+      }
+      
+      //console.log(A[x]);
+  }
+}
+*/
